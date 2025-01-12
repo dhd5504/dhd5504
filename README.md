@@ -26,7 +26,6 @@ I’m currently learning Computer Science at HUST (Hanoi University of Science a
   <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/ruby-programming-language.png" alt="ruby-programming-language"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/r-project.png" alt="r-project"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
