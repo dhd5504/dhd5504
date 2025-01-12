@@ -13,7 +13,7 @@ I’m currently learning Computer Science at HUST (Hanoi University of Science a
   <a href="https://github.com/dhd5504" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:dhd05052004@gmail.com" alt="Email">
+  <a href="mailto:Dong.dh225807@sis.hust.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
