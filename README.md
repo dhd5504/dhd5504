@@ -31,6 +31,7 @@ I’m currently learning Computer Science at HUST (Hanoi University of Science a
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="php"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/google-cloud.png" alt="google-cloud"/>
 </p>
 
